@@ -1,0 +1,202 @@
+[
+  {
+    "reporter": "156",
+    "code": "28539030",
+    "aliases": [
+      "28539030",
+      "2853903000"
+    ],
+    "tier": "specific",
+    "label": "NCM composite hydroxide (China national tariff line)",
+    "dataset": "tariffline",
+    "source": "https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_24600584ed4a4abf8f74d7385d935f3c.html"
+  },
+  {
+    "reporter": "156",
+    "code": "28539050",
+    "aliases": [
+      "28539050",
+      "2853905000"
+    ],
+    "tier": "specific",
+    "label": "NCA composite hydroxide (China national tariff line)",
+    "dataset": "tariffline",
+    "source": "https://www.mofcom.gov.cn/cms_files/filemanager/policySummary/viewcore_24600584ed4a4abf8f74d7385d935f3c.html"
+  },
+  {
+    "reporter": "410",
+    "code": "2825902090",
+    "aliases": [
+      "2825902090"
+    ],
+    "tier": "proxy",
+    "label": "Other hydroxides; Korean candidate proxy",
+    "dataset": "tariffline",
+    "source": "https://www.customs.go.kr/download/ftaportalkor/_down/trty/Korea_Tariff_Schedule.pdf"
+  },
+  {
+    "reporter": "842",
+    "code": "2825909000",
+    "aliases": [
+      "2825909000"
+    ],
+    "tier": "proxy",
+    "label": "Other; US NCM ruling proxy",
+    "dataset": "tariffline",
+    "source": "https://www.customsmobile.com/rulings/docview?doc_id=NY+N321599"
+  },
+  {
+    "reporter": "156",
+    "code": "285390",
+    "aliases": [
+      "285390"
+    ],
+    "tier": "proxy",
+    "label": "Other inorganic compounds; broad proxy",
+    "dataset": "final",
+    "source": "https://comtrade.un.org/en/api-docs"
+  },
+  {
+    "reporter": "156",
+    "code": "282590",
+    "aliases": [
+      "282590"
+    ],
+    "tier": "proxy",
+    "label": "Other inorganic bases and metal oxides/hydroxides; broad proxy",
+    "dataset": "final",
+    "source": "https://comtrade.un.org/en/api-docs"
+  },
+  {
+    "reporter": "410",
+    "code": "285390",
+    "aliases": [
+      "285390"
+    ],
+    "tier": "proxy",
+    "label": "Other inorganic compounds; broad proxy",
+    "dataset": "final",
+    "source": "https://comtrade.un.org/en/api-docs"
+  },
+  {
+    "reporter": "410",
+    "code": "282590",
+    "aliases": [
+      "282590"
+    ],
+    "tier": "proxy",
+    "label": "Other inorganic bases and metal oxides/hydroxides; broad proxy",
+    "dataset": "final",
+    "source": "https://comtrade.un.org/en/api-docs"
+  },
+  {
+    "reporter": "360",
+    "code": "285390",
+    "aliases": [
+      "285390"
+    ],
+    "tier": "proxy",
+    "label": "Other inorganic compounds; broad proxy",
+    "dataset": "final",
+    "source": "https://comtrade.un.org/en/api-docs"
+  },
+  {
+    "reporter": "360",
+    "code": "282590",
+    "aliases": [
+      "282590"
+    ],
+    "tier": "proxy",
+    "label": "Other inorganic bases and metal oxides/hydroxides; broad proxy",
+    "dataset": "final",
+    "source": "https://comtrade.un.org/en/api-docs"
+  },
+  {
+    "reporter": "504",
+    "code": "285390",
+    "aliases": [
+      "285390"
+    ],
+    "tier": "proxy",
+    "label": "Other inorganic compounds; broad proxy",
+    "dataset": "final",
+    "source": "https://comtrade.un.org/en/api-docs"
+  },
+  {
+    "reporter": "504",
+    "code": "282590",
+    "aliases": [
+      "282590"
+    ],
+    "tier": "proxy",
+    "label": "Other inorganic bases and metal oxides/hydroxides; broad proxy",
+    "dataset": "final",
+    "source": "https://comtrade.un.org/en/api-docs"
+  },
+  {
+    "reporter": "392",
+    "code": "285390",
+    "aliases": [
+      "285390"
+    ],
+    "tier": "proxy",
+    "label": "Other inorganic compounds; broad proxy",
+    "dataset": "final",
+    "source": "https://comtrade.un.org/en/api-docs"
+  },
+  {
+    "reporter": "392",
+    "code": "282590",
+    "aliases": [
+      "282590"
+    ],
+    "tier": "proxy",
+    "label": "Other inorganic bases and metal oxides/hydroxides; broad proxy",
+    "dataset": "final",
+    "source": "https://comtrade.un.org/en/api-docs"
+  },
+  {
+    "reporter": "276",
+    "code": "285390",
+    "aliases": [
+      "285390"
+    ],
+    "tier": "proxy",
+    "label": "Other inorganic compounds; broad proxy",
+    "dataset": "final",
+    "source": "https://comtrade.un.org/en/api-docs"
+  },
+  {
+    "reporter": "276",
+    "code": "282590",
+    "aliases": [
+      "282590"
+    ],
+    "tier": "proxy",
+    "label": "Other inorganic bases and metal oxides/hydroxides; broad proxy",
+    "dataset": "final",
+    "source": "https://comtrade.un.org/en/api-docs"
+  },
+  {
+    "reporter": "842",
+    "code": "285390",
+    "aliases": [
+      "285390"
+    ],
+    "tier": "proxy",
+    "label": "Other inorganic compounds; broad proxy",
+    "dataset": "final",
+    "source": "https://comtrade.un.org/en/api-docs"
+  },
+  {
+    "reporter": "842",
+    "code": "282590",
+    "aliases": [
+      "282590"
+    ],
+    "tier": "proxy",
+    "label": "Other inorganic bases and metal oxides/hydroxides; broad proxy",
+    "dataset": "final",
+    "source": "https://comtrade.un.org/en/api-docs"
+  }
+]
