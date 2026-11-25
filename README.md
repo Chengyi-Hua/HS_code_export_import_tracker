@@ -2,6 +2,10 @@
 
 This release upgrades v3.3 in place. The financial-market HTML interface and analytical outputs remain; acquisition, availability discovery, cleaning and annual analytics are corrected. Live API requests use the user's own key and network. No key, live production data, or old cache is shipped.
 
+
+<img width="1846" height="764" alt="image" src="https://github.com/user-attachments/assets/8259865f-05b3-46e4-b569-7d0f06ceb5f4" />
+
+
 ## Upgrade the existing Windows project (recommended)
 
 1. Stop the server (Ctrl+C). Back up the project. Extract this ZIP **into the existing project directory**, replacing matching code files. The ZIP is flat (app.py at its root). Keep your private `.env`, `.venv` and `data/` directories. `.gitignore` is included; review it if you have project-specific rules. No `.env` file is in the ZIP.
@@ -24,7 +28,7 @@ If the virtual environment is not activated, substitute `.\.venv\Scripts\python.
 | Target codes | `156:28539030` |
 | Reporter | China (156) only |
 | Reporting frequency | Annual |
-| Start / end | 2024 / 2024 |
+| Start / end | 2020 / 2025 |
 | Flow | Exports |
 | Partner codes | blank (all returned) |
 | Budget | 10 |
@@ -34,6 +38,15 @@ If the virtual environment is not activated, substitute `.\.venv\Scripts\python.
 Preview plan, then Retrieve data. In the supplied independent diagnostic, this query returned 20 records at a deliberately small cap of 20. The new query requests up to 100,000 records with a key; actual response and cleaned partner counts will differ. The three visible sample records for Belgium aggregate to 543 kg, USD 9,500, weighted USD/kg 17.4954; they are only a partial sample, not full Belgian or Chinese exports. The new cleaner must retain their multiplicity. Review Request audit, Raw API snapshots, bilateral table and the current KPIs. Do not expect the full live result to equal that sample. For national tariff lines the interface disables reported world scope. An empty response is not zero trade.
 
 If successful, extend the annual history (e.g. 2020–2025), then add `156:28539050` and imports. Verify each code's historical applicability and actual coverage. Run South Korea separately for monthly availability with its appropriate classification (proxy only until verified). Use the six-digit 850760 control to check the standard API, not as a pCAM product.
+
+
+
+<img width="1368" height="787" alt="image" src="https://github.com/user-attachments/assets/0743238a-5bdd-48fc-8b59-532fe0ab01b2" />
+
+<img width="1310" height="719" alt="image" src="https://github.com/user-attachments/assets/b09924c6-9925-4784-b7f1-3a8dead20eeb" />
+
+
+
 
 ## API key and Git
 
